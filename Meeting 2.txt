@@ -1,0 +1,4 @@
+-Decided to do Agile
+-Work on backend as a team, then move on to frontend as a team
+-Decided to do C# for front and backend
+-Finished milestone #1
